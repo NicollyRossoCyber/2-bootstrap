@@ -1,0 +1,38 @@
+/* CSS PARA DISPOSITIVOS GRANDES */
+ @media screen and (min-width: 1080px) {
+ .dropdown:hover .dropdown-menu {
+ display: block;
+}
+ }
+
+
+
+.head{
+    background-color: #002f49;
+     display: flex;
+     height: 50px;
+     align-items: center;
+     justify-content: flex-end;
+     padding: 0 80px;
+     ;
+     }
+
+.linkedin-icon{
+    color: #fff;
+    font-size: 13px;
+    margin: 8px;
+
+}     
+
+.instagram-icon{
+    color: #fff;
+    font-size: 13px;
+    margin: 8px;
+}
+
+.facebook-icon{
+    color: #fff;
+    font-size: 13px;
+    margin: 8px;
+     
+}
